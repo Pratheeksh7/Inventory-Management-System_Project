@@ -42,5 +42,4 @@ Uploaded the project to GitHub, including SQL script files, documentation, and a
 This project demonstrates my ability to design and implement a database schema, manage inventory data, track sales, generate reports, and follow industry-standard practices for data integrity, validation, and documentation. 
 It serves as a valuable addition to the resume and GitHub profile, showcasing SQL skills to potential employers.
 
-I will also like to highlight I faced some of the challenges while using the JOIN Function, doing Data Validation and to generate basic reports. 
-In additon, # Testing is still to be completed.
+I would also like to highlight that I faced some challenges while using the JOIN function, performing data validation, and generating basic reports. I overcame these challenges by referring to YouTube, GPT, and Stack Overflow.
